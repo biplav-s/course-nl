@@ -1,1 +1,2 @@
-# course-nl
+# Course - Computer Processing of Natural Languages
+
