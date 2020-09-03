@@ -1,29 +1,18 @@
-List
 
-## General NLP
-* NLTK:
-    - Comments: Comprehensive
-    - URL:  http://www.nltk.org/
-* Spacy: 
-    - Comments: fast, not variety
-    - URL: https://spacy.io/
-* CoreNLP:
-    - Comments: Multi-lingual resources in Java
-    - URL: https://stanfordnlp.github.io/CoreNLP/
-* Mallet: 
-    - Comments: libraries in Java
-    - URL: http://mallet.cs.umass.edu/
+## Chatbot Building Tools
+* DialogFlow:
+    - Comments: Easy to use, supports slot-filling
+    - URL:  https://dialogflow.com/
+* ParlAI: 
+    - Comments: Platform for reinforcement learning-based dialogs
+    - URL: https://parl.ai/
+* MindMeld:
+    - Comments: An open source platform for building chatbots, has useful templates
+    - URL: https://www.mindmeld.com/
+* Watson Conversation: 
+    - Comments: A competent platform; relies on IBM Cloud
+    - URL: https://www.ibm.com/cloud/watson-assistant/
 
-## Lexicons
-* WordNet
-    - Comments: Comprehensive information about English words
-    - URL: https://wordnet.princeton.edu/  
-
-## Sentiment Analysis
-* Vader
-    - Comments: Lexicon and rule-based
-    - URL: https://github.com/cjhutto/vaderSentiment; https://www.nltk.org/_modules/nltk/sentiment/vader.html
-* TextBlob
-    - Comments: rule-based, easy interface
-    - URL: https://github.com/sloria/textblob, https://textblob.readthedocs.io/en/dev/quickstart.html
+## Survery, Tutorials, Presentations
+* [Survey of methods](https://www.dropbox.com/sh/ougz7crp9rc7cm5/AADVkP15cKfyrLznkLFRL_1la/Presentations-Shareable?dl=0&preview=Invited1-PaulCrook-AAAI_DeepDialog_Feb2018.pdf&subfolder_nav_tracking=1), by Paul Crook, 2018 at DEEP-DIAL 2018
 
