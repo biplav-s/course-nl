@@ -26,4 +26,12 @@
 * TextBlob
     - Comments: rule-based, easy interface
     - URL: https://github.com/sloria/textblob, https://textblob.readthedocs.io/en/dev/quickstart.html
+    
+## Specific Processing
+* Scikit-learn text analytics
+    - Comments: Easy to use, light weight libraries and user notes
+    - URL: https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html  
+* Gensim
+    - Comments: For word representation, topic modeling
+    - URL: https://radimrehurek.com/gensim/ 
 
