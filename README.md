@@ -6,3 +6,5 @@ CSCE 771, Fall 2020 at University of South Carolina, USA
 ## A few notable student projects that students agreed to make public
 1. [A Covid Chatbot Generator](https://github.com/franciscovilchezv/chatbot-covid-generator), by Francisco Vilchez
 2. [Using News to Predict Company Stock Movements](https://github.com/Joeyipp/predict-stock-trends-news), by Hong Yung (Joey) Yip
+
+*Note*: This material is available under [MIT license](https://opensource.org/licenses/MIT).
